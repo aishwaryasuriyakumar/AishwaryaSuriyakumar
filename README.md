@@ -68,26 +68,7 @@
 
 ---
 
-## 🚀 My Current Focus
-
-| Area | Description |
-|------|--------------|
-| 🎯 **Project** | Multi-threaded Game Server Simulator |
-| 🧠 **Learning** | Low-level Memory Management & Optimization |
-| 💡 **Goal** | Build High-performance Systems & Engines |
-| ☕ **Fun Fact** | I debug faster than I brew coffee 🐛☕ |
-
 ---
-
-## 📊 Extra GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryasuriyakumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
@@ -103,8 +84,7 @@
 ## 📆 My Developer Journey
 
 <div align="center">
-
-```mermaid
+mermaid
 graph TD;
 A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
 B --> C[Built Game Prototypes 🎮];
@@ -116,7 +96,6 @@ F --> G[Contributing to Open Source 🌍];
 
 </div>
 
----
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer"/>
