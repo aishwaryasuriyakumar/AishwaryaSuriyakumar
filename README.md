@@ -69,7 +69,7 @@
 </div>
 
 ---
-
+<div>
 ## 🚀 My Current Focus
 
 | Area | Description |
@@ -79,6 +79,7 @@
 | 💡 **Goal** | Build High-performance Systems & Engines |
 | ☕ **Fun Fact** | I debug faster than I brew coffee 🐛☕ |
 
+</div>
 ---
 
 ## 📊 GitHub Stats
