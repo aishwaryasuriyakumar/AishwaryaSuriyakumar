@@ -15,8 +15,8 @@
 <div align="center">
 
 <!-- Streak + Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrocalvin02&theme=radical&hide_border=true&background=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryasuriyakumar&theme=radical&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 
 <!-- Language Breakdown -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=aishwaryasuriyakumar&theme=radical&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
@@ -38,7 +38,7 @@
 ## 🔧 Contribution Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryasuriyakumar&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -82,8 +82,8 @@
 ## 📊 Extra GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryasuriyakumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
