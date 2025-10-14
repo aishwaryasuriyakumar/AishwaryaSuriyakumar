@@ -81,20 +81,6 @@
 
 ---
 
-## 📆 My Developer Journey
-
-<div align="center">
-mermaid
-graph TD;
-A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
-B --> C[Built Game Prototypes 🎮];
-C --> D[Learned Python & Java 🚀];
-D --> E[Developed Game Server Simulator 🔧];
-E --> F[Optimizing Performance 🧩];
-F --> G[Contributing to Open Source 🌍];
-```
-
-</div>
 
 
 <!-- Footer Wave -->
