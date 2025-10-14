@@ -1,9 +1,7 @@
-
-
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F54EA2,100:FF7676&height=120&section=header"/>
 
-<h1 align="center">Hey there 👋, I'm Astro Calvin F</h1>
+<h1 align="center">Hey there 👋, I'm Aishwarya SR</h1>
 <h3 align="center">⚙️ Game Developer | System Programming Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
@@ -69,7 +67,7 @@
 </div>
 
 ---
-<div>
+
 ## 🚀 My Current Focus
 
 | Area | Description |
@@ -79,28 +77,34 @@
 | 💡 **Goal** | Build High-performance Systems & Engines |
 | ☕ **Fun Fact** | I debug faster than I brew coffee 🐛☕ |
 
-</div>
 ---
 
-## 📊 GitHub Stats
+## 📊 Extra GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
 📫 **Reach Me At:** [aishwaryasuriyakumar25@gmail.com](mailto:aishwaryasuriyakumar25@gmail.com)  
+🌐 **Portfolio:** *Coming Soon...*  
 ⚡ **Fun Fact:** I debug faster than I make coffee ☕️ → 🐛  
 
 </div>
 
+---
+
+## 📆 My Developer Journey
+
 <div align="center">
-## 📆 My Developer Timeline
 
-
+```mermaid
 graph TD;
 A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
 B --> C[Built Game Prototypes 🎮];
@@ -108,23 +112,11 @@ C --> D[Learned Python & Java 🚀];
 D --> E[Developed Game Server Simulator 🔧];
 E --> F[Optimizing Performance 🧩];
 F --> G[Contributing to Open Source 🌍];
- 
+```
+
 </div>
+
+---
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer"/>
-
-
-## 📆 My Developer Timeline
-
-
-graph TD;
-A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
-B --> C[Built Game Prototypes 🎮];
-C --> D[Learned Python & Java 🚀];
-D --> E[Developed Game Server Simulator 🔧];
-E --> F[Optimizing Performance 🧩];
-F --> G[Contributing to Open Source 🌍];
- 
-
-
