@@ -97,6 +97,19 @@
 
 </div>
 
+<div align="center">
+## 📆 My Developer Timeline
+
+
+graph TD;
+A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
+B --> C[Built Game Prototypes 🎮];
+C --> D[Learned Python & Java 🚀];
+D --> E[Developed Game Server Simulator 🔧];
+E --> F[Optimizing Performance 🧩];
+F --> G[Contributing to Open Source 🌍];
+ 
+</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer"/>
