@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F54EA2,100:FF7676&height=120&section=header"/>
 
 <h1 align="center">Hey there 👋, I'm Aishwarya SR</h1>
-<h3 align="center">⚙️ Game Developer | System Programming Enthusiast | Tech Explorer 🚀</h3>
+<h3 align="center">⚙️ System Programming Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
   <em>“Turning ideas into immersive realities — one line of code at a time.”</em>
@@ -73,8 +73,7 @@
 
 <div align="center">
 
-📫 **Reach Me At:** [aishwaryasuriyakumar25@gmail.com](mailto:aishwaryasuriyakumar25@gmail.com)  
-🌐 **Portfolio:** *Coming Soon...*  
+📫 **Reach Me At:** [aishwaryasuriyakumar25@gmail.com](mailto:aishwaryasuriyakumar25@gmail.com)    
 ⚡ **Fun Fact:** I debug faster than I make coffee ☕️ → 🐛  
 
 </div>
